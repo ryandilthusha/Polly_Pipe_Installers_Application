@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polly Pipe", "Polly Pipe\Polly Pipe.csproj", "{694A52DD-F7C3-4E62-ABF9-BE2B95D0E44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{694A52DD-F7C3-4E62-ABF9-BE2B95D0E44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694A52DD-F7C3-4E62-ABF9-BE2B95D0E44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694A52DD-F7C3-4E62-ABF9-BE2B95D0E44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694A52DD-F7C3-4E62-ABF9-BE2B95D0E44B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B384F1C-DB38-4432-BE22-6CE5EC17AE93}
+	EndGlobalSection
+EndGlobal
